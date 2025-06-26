@@ -1,0 +1,51 @@
+DoctorID,FirstName,LastName,Specialty,PhoneNumber,HospitalAffiliation
+1,William,Washington,Cardiology,001-571-507-3096x16222,Singh-Miller Hospital
+2,Mary,Johnson,Neurology,521.948.3758,Farmer Inc Hospital
+3,Brittany,Salazar,Dermatology,(277)829-2728,Lee-Haynes Hospital
+4,Melanie,Hammond,Cardiology,(631)710-0802,Stephens-Morris Hospital
+5,Jeffrey,Gonzalez,Cardiology,001-436-869-7673x8753,"Barrett, Rodriguez and Madden Hospital"
+6,Brandon,Aguilar,General Medicine,+1-344-303-5279x891,Bailey-Carpenter Hospital
+7,Michael,Terrell,Dermatology,329-013-6447,"Manning, Smith and Mcintosh Hospital"
+8,Vanessa,Morris,Cardiology,763-939-9739x002,"Singleton, Martinez and Martinez Hospital"
+9,Charles,Williams,Cardiology,859-205-1149x747,Kirk-Harrell Hospital
+10,Maria,Johnson,Pediatrics,430-645-4349x4745,Brown-Taylor Hospital
+11,Anthony,Mathis,Pediatrics,847.747.9690x143,Johnson Group Hospital
+12,Ronald,Boone,Neurology,1333474109,Martin and Sons Hospital
+13,Matthew,Franklin,Neurology,(334)998-2815x24965,Dennis Ltd Hospital
+14,Melissa,Taylor,Neurology,369.240.8542,Chen-Pena Hospital
+15,Emily,Chen,Pediatrics,(252)604-2110x6115,"Bush, Goodman and Harper Hospital"
+16,Kevin,Kelley,Neurology,+1-237-859-2837,Ross-Austin Hospital
+17,William,Wright,Cardiology,932.342.2074x416,"Mccoy, Fletcher and Potter Hospital"
+18,Lisa,Hammond,Pediatrics,(643)638-5447,"Lee, Lee and Pierce Hospital"
+19,John,Myers,Neurology,688.877.5157x786,"Finley, Cunningham and Rose Hospital"
+20,Carrie,Santana,Cardiology,673.676.4891x6182,Moran and Sons Hospital
+21,Robert,Bass,Neurology,(231)094-6442x14931,"Smith, Hines and Moore Hospital"
+22,Edwin,Brown,Orthopedics,473.182.4689,Leon Ltd Hospital
+23,Zachary,Davis,Neurology,+1-201-708-3200x8212,Johnson Inc Hospital
+24,David,Carr,Orthopedics,256.813.4789x614,"Osborne, Williams and Caldwell Hospital"
+25,Lori,Wilson,Neurology,4250236309,"Camacho, Brady and Lee Hospital"
+26,Leonard,Fernandez,General Medicine,628.782.9180,"Smith, Castaneda and Golden Hospital"
+27,Angela,Cowan,General Medicine,(899)004-0761,Williams Inc Hospital
+28,Angel,Evans,Dermatology,001-061-820-0926x0568,Price Group Hospital
+29,Paul,Zhang,General Medicine,761.112.5537x225,"Hill, Franklin and Brock Hospital"
+30,William,Cervantes,General Medicine,(762)687-1138,"Clay, Cooke and Mckay Hospital"
+31,Christopher,Rodriguez,Neurology,(364)475-7572x81682,"Stephens, Elliott and Brady Hospital"
+32,Collin,Ferguson,Pediatrics,4919890854,Schneider-White Hospital
+33,Noah,Taylor,Pediatrics,(505)755-4430x48495,"Robinson, Rhodes and Schultz Hospital"
+34,Brent,Norman,Orthopedics,(154)907-4269x302,"Garcia, Lee and Jones Hospital"
+35,Deborah,Hawkins,Pediatrics,4657147944,Martinez and Sons Hospital
+36,William,Powell,Cardiology,567-065-5325,Miller Group Hospital
+37,Gabriel,Collins,Dermatology,(121)750-9013x83593,Hickman LLC Hospital
+38,Michael,Young,General Medicine,099-780-3322x87629,Thomas Inc Hospital
+39,William,Guerrero,Dermatology,5821309120,"Beck, Finley and Smith Hospital"
+40,Lauren,Ramirez,Cardiology,(725)347-9669x8358,Randall and Sons Hospital
+41,Anthony,Lopez,General Medicine,+1-227-816-6088,Chen PLC Hospital
+42,Grant,Blackwell,Orthopedics,+1-803-864-1651x78454,"Montgomery, Huang and Myers Hospital"
+43,Kayla,Welch,Cardiology,(684)506-2280x164,Miller-Sanders Hospital
+44,Tonya,Stevenson,Cardiology,7108481276,"Johnson, Kramer and Avila Hospital"
+45,William,Chavez,Dermatology,001-902-023-0627,"Newman, Andrews and Castro Hospital"
+46,Tammy,Santos,Neurology,(934)729-1732,Rasmussen-Lozano Hospital
+47,Matthew,Leon,Dermatology,987.388.9010x7516,"Crawford, Holmes and Sullivan Hospital"
+48,Sarah,English,Dermatology,001-265-759-6772x8450,Thompson-Clark Hospital
+49,Ashlee,Ochoa,Pediatrics,001-730-020-7831x776,"Becker, Walsh and Cole Hospital"
+50,James,Barton,Cardiology,0737624555,Gutierrez-Taylor Hospital

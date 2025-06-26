@@ -1,0 +1,51 @@
+DoctorID,FirstName,LastName,Specialty,,HospitalAffiliation
+1,William,Washington,Cardiology,,Singh-Miller Hospital
+2,Mary,Johnson,Neurology,,Farmer Inc Hospital
+3,Brittany,Salazar,Dermatology,,Lee-Haynes Hospital
+4,Melanie,Hammond,Cardiology,,Stephens-Morris Hospital
+5,Jeffrey,Gonzalez,Cardiology,,"Barrett, Rodriguez and Madden Hospital"
+6,Brandon,Aguilar,General Medicine,,Bailey-Carpenter Hospital
+7,Michael,Terrell,Dermatology,,"Manning, Smith and Mcintosh Hospital"
+8,Vanessa,Morris,Cardiology,,"Singleton, Martinez and Martinez Hospital"
+9,Charles,Williams,Cardiology,,Kirk-Harrell Hospital
+10,Maria,Johnson,Pediatrics,,Brown-Taylor Hospital
+11,Anthony,Mathis,Pediatrics,,Johnson Group Hospital
+12,Ronald,Boone,Neurology,,Martin and Sons Hospital
+13,Matthew,Franklin,Neurology,,Dennis Ltd Hospital
+14,Melissa,Taylor,Neurology,,Chen-Pena Hospital
+15,Emily,Chen,Pediatrics,,"Bush, Goodman and Harper Hospital"
+16,Kevin,Kelley,Neurology,,Ross-Austin Hospital
+17,William,Wright,Cardiology,,"Mccoy, Fletcher and Potter Hospital"
+18,Lisa,Hammond,Pediatrics,,"Lee, Lee and Pierce Hospital"
+19,John,Myers,Neurology,,"Finley, Cunningham and Rose Hospital"
+20,Carrie,Santana,Cardiology,,Moran and Sons Hospital
+21,Robert,Bass,Neurology,,"Smith, Hines and Moore Hospital"
+22,Edwin,Brown,Orthopedics,,Leon Ltd Hospital
+23,Zachary,Davis,Neurology,,Johnson Inc Hospital
+24,David,Carr,Orthopedics,,"Osborne, Williams and Caldwell Hospital"
+25,Lori,Wilson,Neurology,,"Camacho, Brady and Lee Hospital"
+26,Leonard,Fernandez,General Medicine,,"Smith, Castaneda and Golden Hospital"
+27,Angela,Cowan,General Medicine,,Williams Inc Hospital
+28,Angel,Evans,Dermatology,,Price Group Hospital
+29,Paul,Zhang,General Medicine,,"Hill, Franklin and Brock Hospital"
+30,William,Cervantes,General Medicine,,"Clay, Cooke and Mckay Hospital"
+31,Christopher,Rodriguez,Neurology,,"Stephens, Elliott and Brady Hospital"
+32,Collin,Ferguson,Pediatrics,,Schneider-White Hospital
+33,Noah,Taylor,Pediatrics,,"Robinson, Rhodes and Schultz Hospital"
+34,Brent,Norman,Orthopedics,,"Garcia, Lee and Jones Hospital"
+35,Deborah,Hawkins,Pediatrics,,Martinez and Sons Hospital
+36,William,Powell,Cardiology,,Miller Group Hospital
+37,Gabriel,Collins,Dermatology,,Hickman LLC Hospital
+38,Michael,Young,General Medicine,,Thomas Inc Hospital
+39,William,Guerrero,Dermatology,,"Beck, Finley and Smith Hospital"
+40,Lauren,Ramirez,Cardiology,,Randall and Sons Hospital
+41,Anthony,Lopez,General Medicine,,Chen PLC Hospital
+42,Grant,Blackwell,Orthopedics,,"Montgomery, Huang and Myers Hospital"
+43,Kayla,Welch,Cardiology,,Miller-Sanders Hospital
+44,Tonya,Stevenson,Cardiology,,"Johnson, Kramer and Avila Hospital"
+45,William,Chavez,Dermatology,,"Newman, Andrews and Castro Hospital"
+46,Tammy,Santos,Neurology,,Rasmussen-Lozano Hospital
+47,Matthew,Leon,Dermatology,,"Crawford, Holmes and Sullivan Hospital"
+48,Sarah,English,Dermatology,,Thompson-Clark Hospital
+49,Ashlee,Ochoa,Pediatrics,,"Becker, Walsh and Cole Hospital"
+50,James,Barton,Cardiology,,Gutierrez-Taylor Hospital
