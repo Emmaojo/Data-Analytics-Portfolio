@@ -41,9 +41,6 @@ Key Insight and Recommendation for employee performance:
 * Recommendation: Recognize strong performers and train others.
 
 
-!https://www.google.com/imgres?q=nigeria&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F79%2FFlag_of_Nigeria.svg%2F960px-Flag_of_Nigeria.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNigeria&docid=ycxpk3flSyydlM&tbnid=31KV7kTTT2NADM&vet=12ahUKEwi9vauxtJGOAxXJWEEAHV6cEbwQM3oECBsQAA..i&w=960&h=480&hcb=2&itg=1&ved=2ahUKEwi9vauxtJGOAxXJWEEAHV6cEbwQM3oECBsQAA
-
-
 
 Key Insight and Recommendation for FINANCIAL AND TIME-BASED ANALYSIS:
 * Quarterly Trends: Looking at month with the month with consistent and complete number of Quarters there is no clear pattern, there is need for further analysis of month to explore monthly trend.
