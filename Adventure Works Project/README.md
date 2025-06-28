@@ -50,4 +50,6 @@ NB: Also, from the tables created from this table, a visualisation in Power BI i
 
 
 
-![snapshot]
+![snapshot]https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/15137ab3741238a26694e2b24b1774939b3f1e0e/Adventure%20Works%20Project/Adventurework%20dashboard-1.jpg
+
+
