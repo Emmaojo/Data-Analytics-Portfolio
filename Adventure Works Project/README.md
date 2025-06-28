@@ -47,3 +47,7 @@ NB: Also, from the tables created from this table, a visualisation in Power BI i
 * Year-over-Year Growth: A positive trend shows business expansion; a decline in year 2014 is seen, and this is due to the length of the month recorded (2 Quarters). 
 * Projection: Forecasted revenue gives a baseline for budget planning and target setting, with a $32,401,569.74 projected revenue for next year. 
 * Recommendation: Plan stock, staffing, and budgets around seasonal surges. Use forecasts for resource allocation and sales targets.
+
+
+
+![snapshot]
