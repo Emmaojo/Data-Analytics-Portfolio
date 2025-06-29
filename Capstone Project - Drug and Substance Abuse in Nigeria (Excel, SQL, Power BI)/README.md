@@ -24,6 +24,7 @@ Despite the efforts of agencies like the NDLEA, Nigeria still experience a signi
 * Partner with tech platforms to create drug abuse reporting hotlines and anonymous tips systems
 * NBS and other related agencies should work on gathering a more robust dataset on drug and substance use, that measures other indicators like mental health, economic effect, family background, etc., to gain better insight into drug use, causes, and effects. 
 
+## Drug and Substance Abuse in Nigeria Dashboard
 ![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/2f97395a340500343acb9757c3a09e26f6b37fb5/Capstone%20Project%20-%20Drug%20and%20Substance%20Abuse%20in%20Nigeria%20(Excel%2C%20SQL%2C%20Power%20BI)/Drug%20Abuse%20%20in%20Nigeria%20%20Dashboard.jpg)
 
 ![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/2f97395a340500343acb9757c3a09e26f6b37fb5/Capstone%20Project%20-%20Drug%20and%20Substance%20Abuse%20in%20Nigeria%20(Excel%2C%20SQL%2C%20Power%20BI)/Drug%20Abuse%20%20in%20Nigeria%20%20Dashboard%202.jpg)
