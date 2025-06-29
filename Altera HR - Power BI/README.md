@@ -19,6 +19,7 @@
 * Promote gender-inclusive hiring and leadership development for women.
 * Just 2.3% of employees received awards. Broaden award categories to encourage more participation and motivation.
 
-![snapshot] ()
-![snapshot] ()
+![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/e0d6a64f3a9c3aaded6cf7659187f568777f7cc2/Altera%20HR%20-%20Power%20BI/Altera%20Dashboard%20Img-%20A.jpg)
+
+![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/e0d6a64f3a9c3aaded6cf7659187f568777f7cc2/Altera%20HR%20-%20Power%20BI/Altera%20Dashboard%20Img-%20B.jpg)
 
