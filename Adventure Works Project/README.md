@@ -48,6 +48,7 @@ NB: Also, from the tables created from this table, a visualisation in Power BI i
 * Projection: Forecasted revenue gives a baseline for budget planning and target setting, with a $32,401,569.74 projected revenue for next year. 
 * Recommendation: Plan stock, staffing, and budgets around seasonal surges. Use forecasts for resource allocation and sales targets.
 
+## Adventure works Dabase Dashboard
 ![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/15137ab3741238a26694e2b24b1774939b3f1e0e/Adventure%20Works%20Project/Adventurework%20dashboard-1.jpg)
 
 ![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/f292bfefe5c7251e30a59ca917935aefffcb7995/Adventure%20Works%20Project/Adventurework%20dashboard-2.jpg)
