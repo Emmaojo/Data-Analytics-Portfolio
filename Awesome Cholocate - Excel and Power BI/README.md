@@ -26,4 +26,5 @@ Recommendation: Prepare to meet expected demand with proactive inventory plannin
 7. Pricing and Profitability: Amount per box ranges from $16.0–$17.8, indicating consistent pricing. However, some top reps achieve higher per-box value, suggesting potential upselling or premium product focus.
 Recommendation: Standardise upselling techniques and encourage bundling of premium products. Introduce loyalty incentives for customers purchasing higher-margin Stock Keeping Unit (SKUs).
 
+## Awesome Chocolate Analysis Dashboard
 ![snapshot](https://github.com/Emmaojo/Data-Analytics-Portfolio/blob/476391c4852730f5a930f482ce4704bd9ac9b074/Awesome%20Cholocate%20-%20Excel%20and%20Power%20BI/Awesome%20Chocolate%20Dashboard%20Img.jpg)
